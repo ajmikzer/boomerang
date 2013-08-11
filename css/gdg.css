@@ -70,6 +70,18 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#e4e4e4',GradientType=0 ); /* IE6-9 */
 }
 
+#news-feed .more{
+	border:none;
+  color: #FFF !important;
+  background: #DA573A !important; /* Old browsers */
+}
+
+#news-feed .more a{
+  color: #FFF !important;
+  font-size: 14px;
+}
+
+
 #news-feed li .link-attachment {
   border-left: 3px solid #ccc;
   padding-left: 8px;

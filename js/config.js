@@ -1,16 +1,16 @@
 boomerang.factory('Config',function(){
     return {
         //modify these
-        'name'          : 'GDG Fresno',
-        'id'            : '114769570436363155784',
-        'google_api'    : 'AIzaSyDPjRfTjr-X-FB0jRSf06_7rHAvu9oQ3To',
-        'pwa_id'        : '5846413253595166705', //picasa web album id, must belong to google+ id above
+        'name'          : 'GDG Armenia',
+        'id'            : '100661890326950838722',
+        'google_api'    : 'AIzaSyC0WALE2628cAP0Egv8Zr2lJrQ4Ubor0Ao',
+        'pwa_id'        : '5910866613502480385', //picasa web album id, must belong to google+ id above
         'cover' : {
-            title : 'DevFest Fresno',
-            subtitle : 'The largest Google Developer Conference in the Central Valley',
+            title : 'DevFest Armenia',
+            subtitle : 'The biggest Developer Conference in Armenia',
             button : {
                 text : 'Register',
-                url : 'https://devfestfresno.eventbrite.com'
+                url : 'https://devfest.gdg.am'
             }
         }
     }
